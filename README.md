@@ -142,8 +142,7 @@ MikuBot/
 ├── bot.js                # Główny plik bota
 ├── config.json          # Konfiguracja (token, clientId)
 ├── package.json         # Zależności projektu
-├── README.md            # Dokumentacja
-└── opis.md             # Opis dla użytkowników
+└── README.md            # Dokumentacja
 ```
 
 ---

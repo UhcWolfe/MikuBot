@@ -95,7 +95,10 @@ const commands = [
                     { name: '🐙 Tentacles', value: 'tentacles' },
                     { name: '🎮 Genshin Impact', value: 'genshin_impact' },
                     { name: '💜 Futanari', value: 'futanari' },
-                    { name: '🗡️ Arknights', value: 'arknights' }
+                    { name: '🗡️ Arknights', value: 'arknights' },
+                    { name: '🍌 Dildo', value: 'dildo' },
+                    { name: '✋ Masturbation', value: 'masturbation' },
+                    { name: '🥒 Penis', value: 'penis' }
                 ))
         .toJSON()
 ];
@@ -177,7 +180,10 @@ async function handleNsfwCommand(interaction) {
             'tentacles': '🐙',
             'genshin_impact': '🎮',
             'futanari': '💜',
-            'arknights': '🗡️'
+            'arknights': '🗡️',
+            'dildo': '🍌',
+            'masturbation': '✋',
+            'penis': '🥒'
         };
 
         // Pobieranie losowego obrazu z konachan.com
@@ -384,7 +390,10 @@ async function handleSaveButton(interaction) {
             'tentacles': '🐙',
             'genshin_impact': '🎮',
             'futanari': '💜',
-            'arknights': '🗡️'
+            'arknights': '🗡️',
+            'dildo': '🍌',
+            'masturbation': '✋',
+            'penis': '🥒'
         };
 
         // Tworzenie embeda dla DM

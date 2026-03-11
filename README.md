@@ -141,9 +141,7 @@ Pobiera losową grafikę anime z wybranej kategorii.
 MikuBot/
 ├── bot.js                # Główny plik bota
 ├── config.json          # Konfiguracja (token, clientId)
-├── package.json         # Zależności projektu
-├── README.md            # Dokumentacja
-└── opis.md             # Opis dla użytkowników
+└── package.json         # Zależności projektu
 ```
 
 ---
